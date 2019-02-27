@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="final-assignment-computing-laboratory---group-2">Final Assignment Computing Laboratory - Group 2</h1>
+<h1 id="final-assignment-computing-laboratory---group-2">Final Assignment Computing Laboratory - Group 6</h1>
 <p><strong>Open Recruitment Gen 5.0 : Internship Phase</strong></p>
 <h2 id="a.-tugas-internship">A. Tugas Internship</h2>
 <p>Mempelajari konsep dasar OOP menggunakan bahasa pemrograman python</p>
